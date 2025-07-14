@@ -12,3 +12,36 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+/* task 1 */
+.item {
+  list-style: none;
+}
+/* task 2 */
+.gallery {
+  list-style: none;
+  display: flex;
+  gap: 48px 24px;
+  flex-wrap: wrap;
+}
+/* task 3 */
+
+/* task 4 */
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.btn {
+  height: 40px;
+  width: 86px;
+  border-radius: 8px;
+  background-color:#4E75FF;
+  color: #fafafa;
+}
+/* .button-container button:not(:last-child) {
+  margin-bottom: 8px;
+}
+.button-container button:nth-child(2) {
+  margin-bottom: 16px;
+} */
+ /* task 5 */
